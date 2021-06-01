@@ -10,7 +10,7 @@ const arr = [
     songLink: "https://dnl.megapesni.com/get/online/1QZup3-tN5P8uA_RlWvzFA/1622343042/7bcac9a4/2017/09/%D0%9E%D0%BB%D1%8C%D0%B3%D0%B0%20%D0%91%D1%83%D0%B7%D0%BE%D0%B2%D0%B0%20-%20%D0%A5%D0%B8%D1%82%20%D0%9F%D0%B0%D1%80%D0%B0%D0%B4.mp3",
     photoLink: "",
     "check": true,
-    almub: "Под Звуки Поцелуев",
+    isAlbum: "Под Звуки Поцелуев",
   },
   {
     name: "Танцуй Под Бузову",
