@@ -4,7 +4,8 @@ const arr = [
     songLink: "https://dnl.megapesni.com/get/online/DIJdr7EbW_d2zvJKyS49CQ/1622343042/7b578b74/2017/01/%D0%9E%D0%BB%D1%8C%D0%B3%D0%B0%20%D0%91%D1%83%D0%B7%D0%BE%D0%B2%D0%B0%20-%20%D0%9F%D1%80%D0%B8%D0%B2%D1%8B%D0%BA%D0%B0%D1%8E.mp3",
     photoLink: "",
     "check": false,
-    "isAlbum": false,
+    "isAlbum": true,
+    album: "Под Звуки Поцелуев",
   },
   {
     name: "Хит Парад",
@@ -12,6 +13,7 @@ const arr = [
     photoLink: "",
     "check": false,
     "isAlbum": true,
+    album: "Под Звуки Поцелуев",
   },
   {
     name: "Танцуй Под Бузову",
@@ -24,6 +26,8 @@ const arr = [
     songLink: "https://dnl.megapesni.com/get/online/cnxVwkyQmg9Zl0UTNOL84Q/1622343042/7b735859/2017/04/%D0%9E%D0%BB%D1%8C%D0%B3%D0%B0%20%D0%91%D1%83%D0%B7%D0%BE%D0%B2%D0%B0%20-%20%D0%9B%D1%8E%D0%B4%D0%B8%20%D0%9D%D0%B5%20%D0%92%D0%B5%D1%80%D0%B8%D0%BB%D0%B8.mp3",
     photoLink: "",
     "check": false,
+    "isAlbum": true,
+    album: "Под Звуки Поцелуев",
   },
   
   {
@@ -52,6 +56,8 @@ const arr = [
     songLink: "https://dnl.megapesni.com/get/online/W8eqKfnVoaw-xTWMYvqQfA/1622426265/7b7cd4f5/2017/04/%D0%9E%D0%BB%D1%8C%D0%B3%D0%B0%20%D0%91%D1%83%D0%B7%D0%BE%D0%B2%D0%B0%20-%20%D0%A3%D0%BB%D0%B5%D1%82%D0%B5%D1%82%D1%8C.mp3",
     photoLink: "",
     "check": false,
+    "isAlbum": true,
+    album: "Под Звуки Поцелуев",
   },
     
   {
@@ -73,6 +79,8 @@ const arr = [
     songLink: "https://dnl.megapesni.com/get/online/4NYxCgxu6w3TIplB7yw_aQ/1622426265/7c1b5500/2017/12/%D0%9E%D0%BB%D1%8C%D0%B3%D0%B0%20%D0%91%D1%83%D0%B7%D0%BE%D0%B2%D0%B0%20-%20WIFI.mp3",
     photoLink: "",
     "check": false,
+    "isAlbum": true,
+    album: "Под Звуки Поцелуев",
   },
     
   {
@@ -87,6 +95,8 @@ const arr = [
     songLink: "https://dnl.megapesni.com/get/online/_oJltzdMg_rmJS7jUoU9Ww/1622426265/acfa4e58/2018/07/%D0%9E%D0%BB%D1%8C%D0%B3%D0%B0%20%D0%91%D1%83%D0%B7%D0%BE%D0%B2%D0%B0%20-%20%D0%9D%D0%BE%D1%87%D1%8C%20%D0%A2%D0%B5%D0%BA%D0%B8%D0%BB%D0%B0.mp3",
     photoLink: "",
     "check": false,
+    "isAlbum": true,
+    album: "Под Звуки Поцелуев",
   },
     
   {
@@ -94,6 +104,8 @@ const arr = [
     songLink: "https://dnl.megapesni.com/get/online/Q3vWKx_xO3S8LIU1zODZ4Q/1622426265/e3eac876/2018/10/%D0%9E%D0%BB%D1%8C%D0%B3%D0%B0%20%D0%91%D1%83%D0%B7%D0%BE%D0%B2%D0%B0%20-%20%D0%9F%D0%BE%20%D0%A1%D0%B5%D1%80%D0%B4%D1%86%D1%83.mp3",
     photoLink: "",
     "check": false,
+    "isAlbum": true,
+    album: "Принимай Меня",
   },
     
   {
@@ -108,6 +120,8 @@ const arr = [
     songLink: "https://dnl.megapesni.com/get/online/bUzfsTMYTgljpE1WDcT7LA/1622426588/7c2356ce/2018/01/%D0%9E%D0%BB%D1%8C%D0%B3%D0%B0%20%D0%91%D1%83%D0%B7%D0%BE%D0%B2%D0%B0%20-%20%D0%9E%D0%B4%D0%BD%D0%B0%20%D0%9D%D0%BE%D1%87%D1%8C.mp3",
     photoLink: "",
     "check": false,
+    "isAlbum": true,
+    album: "Под Звуки Поцелуев",
   },
     
   {
@@ -115,6 +129,8 @@ const arr = [
     songLink: "https://dnl.megapesni.com/get/online/cUAJ5EvOCEqMUZXiFoiY8A/1622426588/a5d469da/2017/10/%D0%9E%D0%BB%D1%8C%D0%B3%D0%B0%20%D0%91%D1%83%D0%B7%D0%BE%D0%B2%D0%B0%20-%20%D0%A0%D0%B0%D0%B2%D0%BD%D0%BE%D0%B2%D0%B5%D1%81%D0%B8%D0%B5.mp3",
     photoLink: "",
     "check": false,
+    "isAlbum": true,
+    album: "Под Звуки Поцелуев",
   },
     
   {
@@ -129,6 +145,8 @@ const arr = [
     songLink: "https://dnl.megapesni.com/get/online/JV3Hr_HWJMelpkbg97gcVg/1622426588/7be549df/2017/10/%D0%9E%D0%BB%D1%8C%D0%B3%D0%B0%20%D0%91%D1%83%D0%B7%D0%BE%D0%B2%D0%B0%20-%20%D0%9D%D0%B5%D0%BF%D1%80%D0%B0%D0%B2%D0%B8%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F.mp3",
     photoLink: "",
     "check": false,
+    "isAlbum": true,
+    album: "Под Звуки Поцелуев",
   },
     
   {
@@ -136,6 +154,8 @@ const arr = [
     songLink: "https://dnl.megapesni.com/get/online/Vcs5RRiJykOtHiCYV3Fq-A/1622426588/7be75889/2017/10/%D0%9E%D0%BB%D1%8C%D0%B3%D0%B0%20%D0%91%D1%83%D0%B7%D0%BE%D0%B2%D0%B0%20-%20%D0%91%D0%B5%D1%80%D0%B8%20%D0%9C%D0%B5%D0%BD%D1%8F.mp3",
     photoLink: "",
     "check": false,
+    "isAlbum": true,
+    album: "Под Звуки Поцелуев",
   },
     
   {
@@ -143,6 +163,8 @@ const arr = [
     songLink: "https://dnl.megapesni.com/get/online/E9ozt_kpc6vwCQHQfyAjfw/1622426588/28268a22/2018/10/%D0%9E%D0%BB%D1%8C%D0%B3%D0%B0%20%D0%91%D1%83%D0%B7%D0%BE%D0%B2%D0%B0%20-%20%D0%90%D1%82%D0%BE%D0%9C%D1%8B.mp3",
     photoLink: "",
     "check": false,
+    "isAlbum": true,
+    album: "Под Звуки Поцелуев",
   },
     
   {
@@ -150,6 +172,7 @@ const arr = [
     songLink: "https://dnl.megapesni.com/get/online/ztKtHXPdAylSyHW6w50iMA/1622426588/7bc2fabe/2017/08/%D0%9E%D0%BB%D1%8C%D0%B3%D0%B0%20%D0%91%D1%83%D0%B7%D0%BE%D0%B2%D0%B0%20-%20Not%20Enough%20For%20Me.mp3",
     photoLink: "",
     "check": false,
+    "isAlbum": true,
   },
     
   {
@@ -164,6 +187,8 @@ const arr = [
     songLink: "https://dnl.megapesni.com/get/online/zhCTaXbN8tGW-YSM4UZXLQ/1622426795/2a0fe850/2018/08/%D0%9E%D0%BB%D1%8C%D0%B3%D0%B0%20%D0%91%D1%83%D0%B7%D0%BE%D0%B2%D0%B0%20-%20%D0%9F%D1%80%D0%B8%D0%BD%D0%B8%D0%BC%D0%B0%D0%B9%20%D0%9C%D0%B5%D0%BD%D1%8F.mp3",
     photoLink: "",
     "check": false,
+    "isAlbum": true,
+    album: "Под Звуки Поцелуев",
   },
     
   {
@@ -192,6 +217,8 @@ const arr = [
     songLink: "https://dnl.megapesni.com/get/online/FNpvBm-JQWU_LZ4HSzFRrA/1622426795/3407606d/2018/10/%D0%9E%D0%BB%D1%8C%D0%B3%D0%B0%20%D0%91%D1%83%D0%B7%D0%BE%D0%B2%D0%B0%20-%20%D0%93%D1%83%D0%B1%D1%8B.mp3",
     photoLink: "",
     "check": false,
+    "isAlbum": true,
+    album: "Принимай Меня",
   },
     
   {
@@ -206,6 +233,8 @@ const arr = [
     songLink: "https://dnl.megapesni.com/get/online/L-J0bGprFfaGtML7okWZ0A/1622426966/7c532443/2018/03/%D0%9E%D0%BB%D1%8C%D0%B3%D0%B0%20%D0%91%D1%83%D0%B7%D0%BE%D0%B2%D0%B0%20-%20%D0%9E%D0%BD%D0%B0%20%D0%9D%D0%B5%20%D0%91%D0%BE%D0%B8%D1%82%D1%81%D1%8F.mp3",
     photoLink: "",
     "check": false,
+    "isAlbum": true,
+    album: "Под Звуки Поцелуев",
   },
     
   {
@@ -234,6 +263,8 @@ const arr = [
     songLink: "https://dnl.megapesni.com/get/online/yPMBCazU8bFAz4nEkjbq9g/1622426966/69800f9a/2018/05/%D0%9E%D0%BB%D1%8C%D0%B3%D0%B0%20%D0%91%D1%83%D0%B7%D0%BE%D0%B2%D0%B0%20-%20%D0%A7%D0%B5%D0%BC%D0%BF%D0%B8%D0%BE%D0%BD.mp3",
     photoLink: "",
     "check": false,
+    "isAlbum": true,
+    album: "Принимай Меня",
   },
     
   {
@@ -248,6 +279,8 @@ const arr = [
     songLink: "https://dnl.megapesni.com/get/online/utlKZi9NPdx-F0J0vNaw9A/1622426966/dbd91db3/2018/10/%D0%9E%D0%BB%D1%8C%D0%B3%D0%B0%20%D0%91%D1%83%D0%B7%D0%BE%D0%B2%D0%B0%20-%20%D0%AD%D0%B3%D0%BE%D0%B8%D1%81%D1%82%D0%BA%D0%B0.mp3",
     photoLink: "",
     "check": false,
+    "isAlbum": true,
+    album: "Под Звуки Поцелуев",
   },
     
   {
@@ -269,6 +302,8 @@ const arr = [
     songLink: "https://dnl.megapesni.com/get/online/HPBhiAiL2m8tOol8Vwkd2g/1622426966/9ffe9db0/2018/10/%D0%9E%D0%BB%D1%8C%D0%B3%D0%B0%20%D0%91%D1%83%D0%B7%D0%BE%D0%B2%D0%B0%20-%20%D0%90%D0%BB%D0%BA%D0%BE%D0%B3%D0%BE%D0%BB%D1%8C.mp3",
     photoLink: "",
     "check": false,
+    "isAlbum": true,
+    album: "Под Звуки Поцелуев",
   },
     
   {
@@ -276,6 +311,8 @@ const arr = [
     songLink: "https://dnl.megapesni.com/get/online/brp2AwLHLHbTdu9a4mxQzg/1622426966/f0f3cf6f/2018/10/%D0%9E%D0%BB%D1%8C%D0%B3%D0%B0%20%D0%91%D1%83%D0%B7%D0%BE%D0%B2%D0%B0%20-%20%D0%9F%D1%8F%D1%82%D0%BD%D0%B8%D1%86%D0%B0.mp3",
     photoLink: "",
     "check": false,
+    "isAlbum": true,
+    album: "Под Звуки Поцелуев",
   },
     
   {
@@ -283,6 +320,8 @@ const arr = [
     songLink: "https://dnl.megapesni.com/get/online/R8sPRLEHdmG2X94jh4pnmg/1622426966/77525e2c/2018/10/Ольга%20Бузова%20-%20Слабость.mp3",
     photoLink: "",
     "check": false,
+    "isAlbum": true,
+    album: "Под Звуки Поцелуев",
   },
     
   {
