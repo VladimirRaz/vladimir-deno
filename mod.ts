@@ -173,6 +173,7 @@ const arr = [
     photoLink: "",
     "check": false,
     "isAlbum": true,
+    album: "Под Звуки Поцелуев",
   },
     
   {
